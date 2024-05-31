@@ -90,4 +90,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 -------
 
-If you want to contact me, you can reach me at on x.com @Charles12509909
+If you want to contact me, you can reach me on x.com @Charles12509909
