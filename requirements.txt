@@ -1,0 +1,6 @@
+requests
+Pillow
+pyautogui
+tk
+comtypes
+python-dotenv
