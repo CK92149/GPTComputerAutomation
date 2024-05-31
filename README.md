@@ -6,6 +6,8 @@ GPTComputerAutomation is a tool that leverages OpenAI's GPT-4o model to analyze 
 
 ![Demo of the project](assets/example%201.gif)
 
+full demo: x.com/Charles12509909/status/1796541659628638587
+
 Features
 --------
 
