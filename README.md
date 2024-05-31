@@ -4,6 +4,8 @@ GPTComputerAutomation
 
 GPTComputerAutomation is a tool that leverages OpenAI's GPT-4o model to analyze screenshots and UI elements, automating mouse clicks and typing actions on your computer.
 
+![Demo of the project](assets/example%201.gif)
+
 Features
 --------
 
